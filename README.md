@@ -1,1 +1,1 @@
-<h2># SE2018G01 - Assignment 1 (School Information System)</h2>
+<h2># SE2018G01</h2>
